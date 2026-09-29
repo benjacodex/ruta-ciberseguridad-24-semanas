@@ -1,4 +1,4 @@
 Dia 1 - Variables y tipos de datos - (30 minutos) - Vi TypeError al unir str con int sin convertir; entendi que los espacios en los strings hay que ponerlos yo mismo.
 Dia 2- Operadores - (25 minutos) - Vi SyntaxError al confudir = Con ==; Python hasta sugiere la correcion.
 Dia 3 - Git y Github - (15 minutos) - Configure Git, hice mi primer commit y push a Github. Repo: ruta-cyberseguridad-24-semanas
-Dia 4 - Estructuras de control (if/elif/else) - (20 minutos) - Probé boletos de cine segun edad y validacion de saldo. Vi IndentationError al descomentar un print sin indentar; Python exige que el bloque dentro del if este alineado con espacios.
+Dia 4 - Estructuras de control (if/elif/else) - (20 minutos) - Probé boletos de cine segun edad y validacion de saldo. Vi IndentationError al descomentar un print sin indentar; Python exige que el bloque dentro del if este alineado con espacios...(extra) - Refuerzo de input/int - (tiempo) - Practique con ejercicios propios: variables fijas, input con numeros, diferencia entre mensaje y valor de input. Cometi error de poner el valor dentro del input() en vez del mensaje, y lo corregi.
